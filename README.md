@@ -1,9 +1,4 @@
 ## Hi there 👋 I'm Gauri!
-
-<!--
-**GauriDeoghare434/GauriDeoghare434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🎓 B.Tech CSE | 💡 Passionate about AI, Deep Learning & Data Science  
 📚 Published researcher | 📊 Power BI Storyteller  
 🏆 Best Paper @ SCI-2025 | 🔭 Currently working on hybrid DL models
@@ -40,4 +35,4 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her  
 ⚡ Fun fact:
 I turned a college project into a published research paper — and then presented it internationally in Kuala Lumpur before even graduating! ✈️📚
--->
+
