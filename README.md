@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurideoghare434&label=Profile%20views&color=0e75b6&style=flat" alt="gaurideoghare434" /> </p>
 
-- 🔭 I’m currently working on **I’m constantly exploring new technologies, staying updated with the latest research, and refining my skills**
+- 🔭 I’m constantly **exploring new technologies, staying updated with the latest research, and refining my skills**
 
 - 🌱 I’m currently **Publishing research papers because what's the point of discovery if it's not shared?**
 
