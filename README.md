@@ -18,7 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gauri-deoghare-7a751924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gauri-deoghare-7a751924b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Gauri0403/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/Gauri0403/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+
 </p>
 </p>
 
