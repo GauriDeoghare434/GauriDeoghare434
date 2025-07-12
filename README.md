@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **Publishing research papers because what's the point of discovery if it's not shared?**
 
-- 👨‍💻 All of my projects are available at [https://gaurideoghare434.github.io/personal_portflio/](https://gaurideoghare434.github.io/Personal_Portfolio)
+- 👨‍💻 All of my projects are available at [https://gaurideoghare434.github.io/personal_portflio/](https://gaurideoghare434.github.io/personal_portflio/)
 
 - 📫 How to reach me **deogharegauri@gmail.com**
 
